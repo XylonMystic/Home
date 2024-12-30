@@ -5,33 +5,90 @@
     "link": "https://vercel.xylonstar.us.kg/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://hao.lylme.com/"
+  },
+  {
+    "icon": "Music",
+    "name": "音乐",
+    "link": "https://music.xylonstar.us.kg"
+  },
+  {
+    "icon": "Hotjar",
+    "name": "今日热榜",
+    "link": "https://hot.xylonstar.us.kg"
+  },
+  {
+    "icon": "CommentDots",
+    "name": "NextChat",
+    "link": "https://gpt.xylonstar.us.kg/"
+  },
+  {
+    "icon": "RssSquare",
+    "name": "Rss订阅",
+    "link": "https://rss.1024.do/"
+  },
+  {
+    "icon": "NetworkWired",
+    "name": "站点检测",
+    "link": "https://uptime.xylonstar.us.kg"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "https://link3.cc/xylonstar"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Icicles",
+    "name": "探针",
+    "link": "https://nezha.xuanzi.ggff.net/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Leanpub",
+    "name": "阅后即焚",
+    "link": "https://br.xons.us.kg/"
+  },
+  {
+    "icon": "GlobeAmericas",
+    "name": "GHProxy",
+    "link": "https://ghp.xons.us.kg/"
+  },
+  {
+    "icon": "Docker",
+    "name": "Docker",
+    "link": "https://docker.xons.us.kg/"
+  },
+  {
+    "icon": "PhotoVideo",
+    "name": "图床",
+    "link": "https://img.xylonstar.us.kg/"
+  },
+  {
+    "icon": "CloudDownloadAlt",
+    "name": "网盘",
+    "link": "https://www.yeahhe.online/"
+  },
+  {
+    "icon": "InternetExplorer",
+    "name": "SiteProxy",
+    "link": "https://site.xonstar.us.kg/"
+  },
+  {
+    "icon": "DiceD6",
+    "name": "TVBox",
+    "link": "https://tv.xylonstar.us.kg/"
+  },
+  {
+    "icon": "ArrowAltCircleDown",
+    "name": "万能解析",
+    "link": "https://snapany.com/zh"
+  },
+  {
+    "icon": "DotCircle",
+    "name": "Poki",
+    "link": "https://poki.com/zh"
   }
+
+
 ]
