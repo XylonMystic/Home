@@ -75,9 +75,24 @@
     "link": "https://site.xonstar.us.kg/"
   },
   {
+    "icon": "Sun",
+    "name": "Sun-Panel",
+    "link": "https://sun-panel.xons.us.kg/"
+  },
+  {
+    "icon": "Code",
+    "name": "WebSSH",
+    "link": "https://ssh.xons.us.kg/"
+  },
+  {
     "icon": "DiceD6",
     "name": "TVBox",
     "link": "https://tv.xylonstar.us.kg/"
+  },
+  {
+    "icon": "BehanceSquare",
+    "name": "Base64",
+    "link": "https://tool.chinaz.com/tools/base64.aspx"
   },
   {
     "icon": "ArrowAltCircleDown",

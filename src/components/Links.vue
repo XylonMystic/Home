@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, Compass, Music, Hotjar, CommentDots, RssSquare, NetworkWired, Book, Icicles, Leanpub, GlobeAmericas, Docker, PhotoVideo, CloudDownloadAlt, InternetExplorer, DiceD6, ArrowAltCircleDown, DotCircle } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, Compass, Music, Hotjar, CommentDots, RssSquare, NetworkWired, Book, Icicles, Leanpub, GlobeAmericas, Docker, PhotoVideo, CloudDownloadAlt, InternetExplorer, DiceD6, ArrowAltCircleDown, DotCircle, Sun, Code, BehanceSquare } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -80,7 +80,10 @@ const siteIcon = {
   InternetExplorer,
   DiceD6,
   ArrowAltCircleDown,
-  DotCircle
+  DotCircle,
+  Sun,
+  Code,
+  BehanceSquare
 };
 
 // 链接跳转
