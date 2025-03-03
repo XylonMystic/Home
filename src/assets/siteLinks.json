@@ -12,7 +12,7 @@
   {
     "icon": "Music",
     "name": "音乐",
-    "link": "https://music.xonsss.us.kg"
+    "link": "https://music.xons.us.kg"
   },
   {
     "icon": "Hotjar",
@@ -103,6 +103,11 @@
     "icon": "DotCircle",
     "name": "Poki",
     "link": "https://poki.com/zh"
+  },
+  {
+    "icon": "Image",
+    "name": "图片压缩",
+    "link": "https://picsmaller.com/"
   }
 
 
